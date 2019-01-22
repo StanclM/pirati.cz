@@ -47,7 +47,7 @@ Všechny schůzky ústavně právního týmu jsou v [kalendáři](https://calend
 * mimořádně před schůzí ústavně právního výboru, pokud je to třeba.
 
 Ústavně právní tým se schází ve Velikovského domě, v místnosti G-169 v pracovně Jakuba Michálka (vstup z Malostranského náměstí 7/19).
-Za přípravu agendy setkání zodpovídá Martin Štancl a zápis a pozvánka se zveřejňují [zde](https://forum.pirati.cz/viewtopic.php?f=960&t=40389).
+Za přípravu agendy setkání zodpovídá Martin Štancl. Pozvánka se zveřejňuje [zde](https://forum.pirati.cz/viewtopic.php?f=960&t=40882&start=10).
 
 Online komunikace
 -----------------
@@ -60,9 +60,12 @@ Online komunikace
 
 * **[Jakub Michálek](/lide/jakub-michalek/)**, poslanec zodpovědný za resort justice, místopředseda ústavně právního výboru, řeší kvalitu justice, jmenování soudců,
 * **[Mikuláš Ferjenčík](/lide/mikulas-ferjencik/)**, místopředseda ústavně právního výboru, člen finančního podvýboru, řeší financování justice, ochranu soukromí a základních práv, volební systém,
+* **[Vojtěch Pikal](/lide/vojtech-pikal/)**, ve sněmovně se kromě místopředsednických povinností věnuje otázkám voleb, demokracie a ústavy,
 * **David Satke**, advokát, garant volebního programu Pirátů v oblasti justice, věnuje se zejména připravovanému civilnímu kodexu,
 * **Martin Štancl**, asistent poslance Jakuba Michálka, věnuje se správnímu a daňovému právu procesnímu a také má na starosti fungování ústavně právního týmu,
 * **Jiří Valenta**, asistent poslance Mikuláše Ferjenčíka, 
 * **Martin Archalous**, legislativec poslaneckého klubu, zodpovídá za právní kvalitu námi předkládaných návrhů, pomáhá s pozměňovacími návrhy poslancům.
+* **Jan Nevyjel**, asistent poslance Vojtěcha Pikala
+* **Stanislav Zavadil**, asistent poslance Vojtěcha Pikala
 
 Tým funguje podle [zásad týmové spolupráce](https://wiki.pirati.cz/rules/or_zatys). Nadřízeným týmem je republikové předsednictvo. Spolupracujeme s poslanci, kteří mají související gesci (např. František Kopřiva pro oblast lidských práv, Lukáš Kolářík pro oblast exekucí a insolvencí).
