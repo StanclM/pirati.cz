@@ -67,6 +67,9 @@ Online komunikace
 * **Jiří Valenta**, asistent poslance Mikuláše Ferjenčíka, 
 * **Martin Archalous**, legislativec poslaneckého klubu, zodpovídá za právní kvalitu námi předkládaných návrhů, pomáhá s pozměňovacími návrhy poslancům,
 * **Markéta Řádková**, legislativec poslaneckého klubu,
-* **Stanislav Zavadil**, asistent poslance Vojtěcha Pikala.
+* **Stanislav Zavadil**, asistent poslance Vojtěcha Pikala,
+* **Jan Nevyjel**, asistent poslance Vojtěcha Pikala,
+* **Lukáš Bartík**, asistent poslance Františka Navrkala.
+
 
 Tým funguje podle [zásad týmové spolupráce](https://wiki.pirati.cz/rules/or_zatys). Nadřízeným týmem je republikové předsednictvo. Spolupracujeme s poslanci, kteří mají související gesci (např. František Kopřiva pro oblast lidských práv, Lukáš Kolářík pro oblast exekucí a insolvencí).
