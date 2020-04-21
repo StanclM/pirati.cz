@@ -38,15 +38,15 @@ Jak se můžete zapojit?
 
 **Nabízíme šanci právníkům sáhnout si na nové zákony a něco se přitom naučit.**
 
-Pokud souhlasíte s [Pirátským programem v oblasti spravedlnosti](/program/psp2017/spravedlnost/) a chcete nám pomoci, registrujte se prosím na [Nalodění](https://nalodeni.pirati.cz/jdu-do-toho/) a zaškrtněte, že máte zájem o justici, případně se ozvěte Martinu Štanclovi na tel. 728 337 464 nebo na <martin.stancl@pirati.cz>. Rádi vás pozveme na naše setkání. 
+Pokud souhlasíte s [Pirátským programem v oblasti spravedlnosti](/program/psp2017/spravedlnost/) a chcete nám pomoci, registrujte se prosím na [Nalodění](https://nalodeni.pirati.cz/jdu-do-toho/) a zaškrtněte, že máte zájem o justici, případně se ozvěte Martinu Štanclovi na tel. 728 337 464 nebo na <stanclm@psp.cz>. Rádi vás pozveme na naše setkání. 
 
 Schůzky týmu
 ---------------
 
 Všechny schůzky týmu Spravedlnost jsou v [kalendáři](https://calendar.google.com/calendar/embed?src=0hc5kevgjdgvenr4tt7d34g7pc%40group.calendar.google.com&ctz=Europe%2FPrague). Tým Spravedlnost se schází 
 
-* jednou za šest týdnů vždy v pondělí ve 14:00 (týden před zahájením schůze),
-* mimořádně před schůzí ústavně právního výboru, pokud je to třeba.
+* jednou za šest týdnů vždy (týden před zahájením schůze),
+* mimořádně například před schůzí ústavně právního výboru, pokud je to třeba.
 
 Tým Spravedlnost se schází ve Velikovského domě, v místnosti G-169 v pracovně Jakuba Michálka (vstup z Malostranského náměstí 7/19).
 Za přípravu agendy setkání zodpovídá Martin Štancl a zápis a pozvánka se zveřejňují [zde](https://forum.pirati.cz/viewtopic.php?f=960&t=40389).
@@ -54,7 +54,7 @@ Za přípravu agendy setkání zodpovídá Martin Štancl a zápis a pozvánka s
 Online komunikace
 -----------------
 
-Členové týmu mohou využít pro komunikaci e-mail na všechny členy skupiny nebo skupinu na facebooku [tým Spravedlnost](https://www.facebook.com/groups/2235605923334102/) na facebooku.
+Členové týmu mohou využít pro komunikaci e-mail na všechny členy skupiny nebo skupinu na facebooku [tým Spravedlnost](https://www.facebook.com/groups/2235605923334102/).
 
 
 Členové týmu
@@ -69,5 +69,6 @@ Online komunikace
 * **Martin Archalous**, legislativec poslaneckého klubu, zodpovídá za právní kvalitu námi předkládaných návrhů, pomáhá s pozměňovacími návrhy poslancům,
 * **Markéta Řádková**, legislativec poslaneckého klubu,
 * **Stanislav Zavadil**, asistent poslance Vojtěcha Pikala.
+* **Lukáš Bartík**, asistent poslance Františka Navrkala
 
 Tým funguje podle [zásad týmové spolupráce](https://wiki.pirati.cz/rules/or_zatys). Nadřízeným týmem je republikové předsednictvo. Spolupracujeme s poslanci, kteří mají související gesci (např. František Kopřiva pro oblast lidských práv, Lukáš Kolářík pro oblast exekucí a insolvencí).
